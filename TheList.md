@@ -27,3 +27,10 @@
 * God does not have a body. *de fide*
 * God is a pure Spirit *de fide* Vat. I *De Deo*
 * God does not change GKEA 298; Lateran IV, Vatican I
+* God is eternal. 309; Nicaea I; *Firmiter*, *De Deo*
+* God is immense (has no spatial limits); *Firmiter*, *De Deo*
+  * God is omnipresent. 321
+* Because of the identity of being and thought in God, the Divine Knowledge is a substantial act of cognition, in which consciousness and self-comprehension coincide. de fide 329
+* By virtue of His infinite comprehension of His own Essence, God in and through Himself also knows all extra-divine truths, in such manner that truth is dependent on Him, not He on truth. 333 sent certa
+* God knows the things external to Himself not only in His own Essence, but also as they are in themselves. 340 sent certa
+* God's knowledge of the things outside Himself is an adequately comprehensive knowledge, and is invested with that absolute infallibility which flows from metaphysical certainty. de fide [?]' 343'
