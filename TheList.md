@@ -34,3 +34,69 @@
 * By virtue of His infinite comprehension of His own Essence, God in and through Himself also knows all extra-divine truths, in such manner that truth is dependent on Him, not He on truth. 333 sent certa
 * God knows the things external to Himself not only in His own Essence, but also as they are in themselves. 340 sent certa
 * God's knowledge of the things outside Himself is an adequately comprehensive knowledge, and is invested with that absolute infallibility which flows from metaphysical certainty. de fide [?]' 343'
+* God knows whatever is possible 351 de fide
+* God foreknows the future free actions of His intelligent creatures 361 De Deo
+* Although God perceives the purely possibles exactly as they are in themselves, He does not know them immediately in themselves, but mediately in His own Essence as medium in quo. sent comm 393
+* God perceives the actually existing things, including free actions, past and present, in His own Essence as medium in quo. sent comm 397
+* Like God's conception of Himself, the love He has for Himself is really identical with His Essence. de fide 423
+* By virtue of His infinite love God loves whatever is good: Himself as the supreme good He loves with absolutely necessity, whereas whatever is good in His creatures He loves with a free will. de fide 428 De Deo
+* Although God loves His creatures unequally, each according to the measure of its goodness, He does ot love them for their sake, but solely because of His own goodness. Sent Comm. I don't like the phrasing. 434
+* God loves all existing creatures with the love of simple complacency; those endowed with intelligence e also loves with the love of benevolence. Sent certa 442
+* God can will natural evil, and evil inflicted as a punishment, only per accidens; He never wills sin, but merely permits it. 442; no rank given, but the permission part has to be sent certa at least
+* God has no will with regard to what is intrinsically impossible. sent comm 452
+
+====== SACRAMENTS 1 ======
+* The existence of sacraments in paradise is disputed; majority opinion is not 18
+* There was a "Sacrament of Nature" under the pre-Mosaic dispensation by which men could be saved, though the nature of this "sacrament" is uncertain. sent certa 20
+* Circumcision was a sacrament of the Mosaic Law 26
+* There are seven sacraments. de fide Trent VII.1   32
+* The sacraments of the New Testament consist of two elements, the one indeterminate (res), the other determining (verbum). Sent fidei prox. 59
+* The "sensible element" in a Sacrament corresponds, in philosophical parlance, to "matter," the word to "form," and the two are related to each other as matter and form in the Scholastic sense of these terms. sent certa 61
+* All the Sacraments confer sanctifying grace. de fie Trent VII.7
+* Besides sanctifying grace, each sacrament confers a special, so called "sacramental grace". sent comm 70
+* The sacraments of Baptism, Confirmation, and Holy Orders impress an indelible character on the soul and cannot be repeated. de fide Trent VII, 9 77
+* Christ Himself instituted all the sacraments in the sense that He alone, by His passion and death, is their meritorious cause. de fide Trent VII.1 97
+* The Sacraments of the Christian dispensation have been immediately and personally instituted by Christ. sent certa 101
+* Christ so determined the matter and form of the Sacraments that they are immutable for all time. sent comm 107 discussion of of what level of determination this means
+* Though the Church has no right to institute Sacraments, she possesses the power to institute sacramentals. sent certa 111 Trent VII.13
+* The sacraments are effective *ex opere operato* de fide
+* The minister of a sacrament must be in the wayfaring state. 163
+* The minister of a sacrament must be duly qualified. 164 Trent VII.10
+* No one can adminster a sacrament to himself. 166
+* The validity of a Sacrament does not depend on the personal worthiness of the minister. de fide 166 Constance (DB 584) Trent VII.12
+* The validity of a sacrament does not depend on the orthodox belief of the minister. de fide wrt Baptism; sent fidei proxima wrt to others, except penance 171
+* To adminster a sacrament validly, the minister must have the intention at least to do what the Church does. 178 Trent VII.11
+* A merely external intention (the intention of performing the external rite without giving interior assent) is not sufficient. sent comm 183
+* An adult [person over the age of reason] must intend to receive the sacrament for it to be valid. sent certa? 197
+* A person must be in the wayfaring state to receive a sacrament. sent certa.
+* Christ instituted the sacrament of baptism. de fide 209
+* Natural water is necessary for baptism. de fide 213 Trent VII.2
+* A true washing is necessary for baptism--the water must touch the body and flow over it
+* Statement as to form
+* Baptism remits the guilt of Original Sin. de fide Trent V.5
+* Baptism remits the guilt of all actual sins.
+* Baptism remits all penalties for sin. Trent V.5
+* Baptism is necessary for salvation. de fide 238 Trent VII.5 necesity of precept and necessity of means. WHen?
+* In adults the place of Baptism by water can be supplied in case of urgent necessity by the so-called Baptism of desire. *doctrina catholica?* 243 Trent VI 4, XIV 4 St. Ambrose de Obitu Valent 51 More common opinion holds that an implicit desire is sufficient
+* Martyrdom can also supply the place of Baptism *sent certa*
+* In case of urgent necessity, any human being can baptize. *sent certa*
+* The recipient of baptism must be a human being
+* The recipient must be in the wayfaring state. 266 begin end
+* The recipient must be unbaptized
+* Baptism of infants is valid de fide Trent VII.13
+* Confirmation is a true sacrament Trent VII.1
+* Matter of confirmation is undefined;
+  * laying on of hands
+  * anointing with chrism
+  * both
+* Balsam is required; sent communior
+* Form is of dispute
+  * general prayer
+  * words at anointing
+* Confirmation strengthens sanctifying grace 300
+* Confirmation imparts a character
+* The ordinary minister of Confirmation is a bishop (de fide, Trent VII.3, but note the eastern disagreement) 307
+* A priest can confirm, given permission by competent authority.
+* The recipient of confirmation must be baptized
+
+====== Trinity
