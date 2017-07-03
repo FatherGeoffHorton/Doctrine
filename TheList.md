@@ -100,3 +100,30 @@
 * The recipient of confirmation must be baptized
 
 ====== Trinity
+====== God Creator
+* God created everything *ex nihilo* de fide 4
+* God created all other things that exist *de fide* Lateran IV Firmiter
+* Father, Son and Holy Spirit created the universe not as separate Persons, but per modum naturae, i.e., in virtue of the essential Knowledge and Volition common to the whole Trinity. *de fide* 36 Firmiter
+* Creation is properly appropriated to God the Father. *sent certa* 38
+* All creatures bear within themselves vestiges of the Trinity; spiritual creatures are real images of the same. sent comm 38
+* Creation was a free act; God was free to create or not to create. de fide 41 F Florence; Vatican I, De Deo can 5
+* The divine act of Creation was free, libertate specificationis; that is, God was free to create either this present universe or any other. sent certa 43 Cologne (1860)
+* God was not free to create a bad world. 46 Not sure it's worth including
+* God created the existing universe in time (i.e., it has a beginning). de fide, 50, Firmiter, Vat I
+* No mere creature ever created something out of nothing. De fide 55 Lateran IV
+* God cannot, even by way of grace, communicate His creative power to any creature; sent fidei proxima 56
+* The creator cannot employ a creature as an instrumental cause in creating. sent communior 58
+* All created things depend on God for their continued existence. *sent certa*
+* God will forever maintain the substance of His creation. *sent certa* 66
+* God lends his immediate physical cooperation (concursus) to every physical act. *sent comm* 67
+* God's sole motive in creating the universe was His benevolence. *de fide* 81 Vat I III.1
+* The ultimate purpose of creation is primarily the glorification of God (de fide 83 Vatican I III.5) and secondarily the beatification of His rational creatures (sent comm? 86)
+* God protects and governs by His Providence all things He has made, even wih respect to free actions. 92  V I III.1
+* The body and soul of the first man were created immediately by God 127 sent certa
+* All mankind is descended from one pair of progenitors 131 level? Humani Generis
+* Man consists of two and only two essential constituents: body and soul. *de fide* 137 Constantinople II
+* The spiritual soul is the immediate substantial form of the body. *de fide* 142 Lateran V, Sess VIII
+* The human soul is immortal (de fide) by nature (sent comm) 151
+* The pre-existence of souls is heretical. *de fide* ?  162
+* Traducianism is an error. 166 sent certa
+* The human soul is immediately created by God. sent certa 171 
