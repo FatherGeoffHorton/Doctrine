@@ -119,11 +119,39 @@
 * God's sole motive in creating the universe was His benevolence. *de fide* 81 Vat I III.1
 * The ultimate purpose of creation is primarily the glorification of God (de fide 83 Vatican I III.5) and secondarily the beatification of His rational creatures (sent comm? 86)
 * God protects and governs by His Providence all things He has made, even wih respect to free actions. 92  V I III.1
-* The body and soul of the first man were created immediately by God 127 sent certa
+* The body and soul of the first man were created immediately by God 127 sent cert
 * All mankind is descended from one pair of progenitors 131 level? Humani Generis
 * Man consists of two and only two essential constituents: body and soul. *de fide* 137 Constantinople II
 * The spiritual soul is the immediate substantial form of the body. *de fide* 142 Lateran V, Sess VIII
 * The human soul is immortal (de fide) by nature (sent comm) 151
 * The pre-existence of souls is heretical. *de fide* ?  162
 * Traducianism is an error. 166 sent certa
-* The human soul is immediately created by God. sent certa 171 
+* The human soul is immediately created by God. sent certa 171
+* The gifts of the beatific vision and the state of grace are supernatural in the strict sense. 190 wrt beatific vision is de fide, and on earth a necessary conclusion
+* Exemption from concupiscence, bodily immortality, habitual infused knowledge, and impassibility are preternatural gifts. 194 first two de fide, other sent comm
+* Adam, the progenitor of the human race, was endowed with sanctifying grace before the Fall. de fide Trent V.1 & 2 196
+* Our first parents in Paradise were by a special grace exempt from concupiscence 200; sent fidei proxima?
+* Our first parents before the Fall were endowed with bodily immortality. 205 de fide Trent V.1
+* Our first parents were also endowed with an infused knowledge of natural and supernatural truth ? Sent certa? 207
+* Our first parents had the gift of impassibility 214 sent comm
+* God could have created man in the state in which he now is born, minus Original Sin. *sent. comm.* 230
+* our first parents, seduced by Satan, committed a mortal sin by transgressing the precept of probation.  *de fide* 233, Trent, session 5, canons one through three
+* by transgressing the law of probation Adam forfeited sanctifying grace and merited eternal damnation; he became subject to bodily death and the dominion of Satan, and suffered a deterioration in body and soul.  *de fide* Trent, session 5, Canon one 236
+*  Original Sin is real sin, and its entire guilt is blotted out by baptism *de fide* 244, Trent somewhere.
+* Concupiscence as such is not really sin, but is merely so-called, because "it is of sin and inclines to sin. 245"Trent session 5 Canon five
+* Original Sin does not consist exclusively in the extrinsic imputability of the actual sin of Adam conceived as morally enduring. *sent. comm.* 265
+* Original Sin essentially consists impregnation of grace, so far as this is voluntary in all men to the will of their progenitor. *sent. comm.*
+* the sin of Adam is transferred by propagation. *de fide* Trent, session 5, Canon three page 280
+* get the effects of original sin from Trent.
+* Even in the state of original sin, man retains full liberty of choice between good and evil. *de fide*
+* Angels exist.  *de fide* 313
+* Angels are incorporeal substances, that is, pure spirits. *sent. certa* 314
+* all Angels were endowed with sanctifying grace. 325 *sent. comm.*
+* the Angels were endowed sanctifying grace at the time of their creation. 327 *sent. comm.*
+* Angels underwent a period of probation. 328 *sent. comm.*
+* The Angels exercise a kind of general guardianship over the human race. *sent. certa* 330
+* every Christian from the moment of his baptism has his particular guardian angel. *sent. certa* 332
+* not only Christians and those justified, but heathens and sinners also have each a guardian angel.  *sent. certa*
+* Every State and every ecclesiastical province has its own divinely appointed tutelary spirit. More probable opinion. 337
+* some Angels failed their probation. *sent. certa*
+* the fallen Angels lost race and were cast into hell, where they have no hope of redemption. *de fide* 
