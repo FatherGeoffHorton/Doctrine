@@ -154,4 +154,16 @@
 * not only Christians and those justified, but heathens and sinners also have each a guardian angel.  *sent. certa*
 * Every State and every ecclesiastical province has its own divinely appointed tutelary spirit. More probable opinion. 337
 * some Angels failed their probation. *sent. certa*
-* the fallen Angels lost race and were cast into hell, where they have no hope of redemption. *de fide* 
+* the fallen Angels lost race and were cast into hell, where they have no hope of redemption. *de fide*
+
+======= Sacraments 2
+* The Eucharist really, truly, and substantially contains the Body and Blood, together with the Soul and the Divinity of our Lord Jesus Christ, and consequently the whole Christ.  *de fide* 88 Trent 13, Canon one
+* Christ is present whole and entire under each species.  de fide page 93 Trent session 13 Chapter 3
+* When the Sacred Host is broken into pieces or the consecrated contents of the Chalice are consumed in small quantities, Christ is wholly and entirely present in each particle and in every drop. de fide Trent 13, Canon three page 95
+* Even before the actual division of the sacred species Christ is wholly and entirely present in each particle of the Host and in every drop of the collective contents of the Chalice. theological conclusion? Page 98.
+* By the consecration of the bread and of the wine a conversion is made of the whole substance of the bread into the substance of the Body of Christ our Lord, and of the whole substance of the wine into the substance of His Blood; which conversion is by the Holy Catholic Church suitably and properly called Transubstantiation. de fide Trent 13 Chapter 4 page 11
+* Christ is really and truly present under the appearances of bread and wine in the Holy Eucharist.
+* Though the accidents of bread and wine continue, the respective substances no longer exist.
+* The Body and Lots of our Lord Jesus Christ remain in the sacrament after use and in reserve or remaining elements. de fide 129 Trent team Three
+* The appearances of bread and wine remain without a subject. 145 certain
+* the Eucharistic accidents have a physical reality and are not an illusion. 148 certain. Maybe proximate. 148
