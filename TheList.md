@@ -167,3 +167,24 @@
 * The Body and Lots of our Lord Jesus Christ remain in the sacrament after use and in reserve or remaining elements. de fide 129 Trent team Three
 * The appearances of bread and wine remain without a subject. 145 certain
 * the Eucharistic accidents have a physical reality and are not an illusion. 148 certain. Maybe proximate. 148
+* Wheat bread is required to confect the Eucharist. sent certa see CDF statements on attempts to use rice
+* Leavened and unleavened bread are both possible (though licit only in ther respective Churches) sent *sent. certa*
+* Wine from grapes is required to confect the Eucharist. sent *sent. certa*  (cf. Trent XIII cap 4)
+* Addition of water is not necessary
+* Christ did not consecrate by a mere inarticulate act of His omnipotent will, but by pronouncing the words, "This is my Body, ... this is my Blood." sent *sent. certa*
+* By the articulate utterance, on the part of the priest, of the words of institution: "This is my Body, ... this is my Blood," Christ becomes immediately present on the altar. sent fidei proxima Trent XIII cap 3
+* The words of institution contain the only and wholly adequate form of the Eucharist, and consequently the epiclesis does not consecrate and is not part of the form of the Sacrament.  *sent. certa*
+* In the case of infants the Holy Eucharist is not necessary for salvation either as a means or by way of precept *sent. certa*  Trent XXI, can 4
+* For adults the reception of the Holy Eucharist is necessary as a matter of precept. de fide Trent XIII cap 2
+* The Holy Eucharist is not absolutely necessary for adults as a means of salvation. *sent. certa*
+* Reception under both species by the laity is not necessary for salvation. de fide Trent XXI, can 1
+* Only but a validly ordained priest can consecrate the Eucharist. de fide Firmiter
+* The Mass is a true sacrifice. de fide Trent XIII, 1
+* The Mass, though a true sacrifice, is intrinscially and essentially a representation and commemoration of the sacrifice of the Cross. de fide Trent XXII, 1
+* The Mass is essentially identical with the Sacrifice of the Cross (included in the prior?)
+* The Mass is a sacrifice of praise;
+* The Mass is a sacrifice of thanksgiving;
+* The Mass is a sacrifice of propitiation;
+* The Mass is a sacrifice of impetration;
+* The Mass can be offered for the dead (all de fide from Trent XXII, can 3)
+* The Mass may be celebrated in honor of the saints and to obtain their intercession de fide Trent XXII, can 5
