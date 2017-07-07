@@ -188,3 +188,11 @@
 * The Mass is a sacrifice of impetration;
 * The Mass can be offered for the dead (all de fide from Trent XXII, can 3)
 * The Mass may be celebrated in honor of the saints and to obtain their intercession de fide Trent XXII, can 5
+
+
+======== Christology
+
+* Jesus is truly a Divine Person. de fide
+* Jesus has a true and integral human nature. de fide
+* Jesus is a true descendant of Adam. de fide Chalcedon
+* Jesus was capable of suffering by virtue of His assumed manhood. de fide Florance
