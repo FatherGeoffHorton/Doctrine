@@ -28,6 +28,20 @@ Trent XXV
 * Indulgences can be applied to the dead  sent certa DB 729
 
 
+===== Anointing of the Sick
+* Anointing of the sick was instituted by Christ. de fide Trent XIV DEU can 1. defined interpretation of James V 14ff. "promulgated by St. James"
+* The remote matter of the sacrament is blessed olive oil. (vegetable oil?)
+  * Priests have the power to bless oil if delegated, which all are under the current arrangement
+* Proximate matter is the act of anointing
+  * Was a dispute over whether all five were necessary; East never did, West may not have always; settled by the institution of the current method
+* Form not specified by Christ; must be a prayer for the Sick
+* Anointing confers grace (de fide), remits sin (sent comm?), and comforts the sick de fide Trent XVI DEU can 2
+* Recovery of health insofar as it benefits the sick person sent comm?
+* Can be administered only by bishops and priests de fide Trent XIV DEU cap 3 can 4
+* Recipient must be alive
+* Recipient must be in danger of death (periculum mortis, but not necessarily articulus mortis)
+* Recipient must have attained the age and use of reason
+
 ==== Ecclesiology
 * Christ established a visible Church
 * Infallibility
