@@ -10,7 +10,7 @@ The Council did not specify how it is that God can be known with certainty. Ott 
 
 40-43:
 ###### Our knowledge of God while in the present life is analogical, not proper.
-*Sent. certa.*
+*Sent. certa*.
 
 That is to say, we know God by way of comparison to created things; we do not know God as He is in Himself.
 
@@ -31,26 +31,26 @@ The soul, for the immediate vision of God, requires the light of glory. de fide 
 
 65-66:
 ###### General revelation ended with the death of the last Apostle.
-*Sent. certa.*; *Dei Verbum* IV.
+*Sent. certa*.; *Dei Verbum* IV.
 
 1.1.2.2
 
 75-82:
-###### Divine revelation is contained in both Sacred Scripture and Sacred Tradition. *Sent. certa.*; *Trent* sess. 4; *Dei Verbum* IX.
+###### Divine revelation is contained in both Sacred Scripture and Sacred Tradition. *Sent. certa*.; *Trent* sess. 4; *Dei Verbum* IX.
 
-###### The Church has divine authority to interpret both Scripture and Tradition. *Sent. certa.*; *Dei Verbum* X.
+###### The Church has divine authority to interpret both Scripture and Tradition. *Sent. certa*.; *Dei Verbum* X.
 
 See the discussion of infallibility below for the ways in which this authority can be exercised.
 
 1.1.2.3
 
 ###### Sacred Scripture is inspired by God.
-*Sent. certa.*; *Trent*, sess. 4; *Dei Verbum* XI.
+*Sent. certa*.; *Trent*, sess. 4; *Dei Verbum* XI.
 
 The Church is not committed to any particular theory of inspiration.
 
 ###### Sacred Scripture when properly understood is without error in all that it affirms.
-*Sent. certa.*; *Dei Verbum* XI.
+*Sent. certa*.; *Dei Verbum* XI.
 
 ###### The inspired books of Sacred Scripture are: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles, Ezra, Nehemiah, Tobit, Judith, Esther (including those portions know as "the Rest of Esther"), 1 and 2 Maccabees, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Wisdom of Solomon, Sirach (Ecclesiasticus), Isaiah, Jeremiah, Lamentations, Baruch, Ezekiel, Daniel (including the Prayer of Azariah and Song of the Three Holy Children; Susannah and the elders; Bel and the Dragon), Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zachariah, Malachi; Matthew, Mark, Luke, John, Acts of the Apostles, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude,  Revelation (the Apocalypse).
 *De fide*; *Trent* sess. 4.
@@ -65,16 +65,16 @@ It is certain that the books in the above list are inspired. A few other books a
 
 215-217
 ###### God is true and faithful.
-*Sent. certa.*
+*Sent. certa*.
 
 218-221
 ###### God is benevolent.
-*Sent. certa.*
+*Sent. certa*.
 
 249-256
 ###### In God there are three Divine Persons: the Father, the Son and the Holy Ghost.
 *De fide*.
-The most common definition of *person* is *an individual substance of a rational nature.*
+The most common definition of *person* is *an individual substance of a rational nature*.
 
 ###### Each of the three Persons possesses the one (numerical) Divine Essence.
 *De fide*.
