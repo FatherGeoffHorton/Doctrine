@@ -69,4 +69,29 @@ It is certain that the books in the above list are inspired. A few other books a
 
 218-221
 ###### God is benevolent.
-*Sent. certa.
+*Sent. certa.*
+
+249-256
+###### In God there are three Divine Persons: the Father, the Son and the Holy Ghost.
+*De fide*.
+The most common definition of *person* is *an individual substance of a rational nature.*
+
+###### Each of the three Persons possesses the one (numerical) Divine Essence.
+*De fide*.
+This means that each of the Divine Persons is fully and completely God, not a part of God. For this reason, analogies of the Trinity involving combination or addition (e.g., 1 + 1 + 1 = 1) are best avoided.
+
+###### The Divine Persons are truly distinct from each other.
+*De fide*.
+This doctrine stands against the idea that the Persons are simply modes in which God acts.
+In God there are two internal divine processions. de fide
+The Divine Persons, not the Divine Nature, are the subject of the internal divine processions (in the active and in the passive sense). de fide D432
+The Second Divine Person proceeds from the First Divine Person by generation, and therefore is related to Him as Son to Father. de fide
+The Holy Ghost proceeds from the Father and from the Son as from a single principle through a single spiration. de fide
+The Son proceeds from the Intellect of the Father by way of generation. sent. certa
+The Holy Ghost proceeds from the will or from the mutual love of the Father and the Son. sent. certa
+The Holy Ghost does not proceed through generation but through spiration. de fide
+The relations in God are really identical with the Divine Nature. de fide D703
+The Three Divine Persons are in one another. de fide
+All the ad extra activities of God are common to the three Persons. de fide Firmiter
+The Father sends the Son; the Father and the Son send the Holy Ghost. sent. certa D277/794
+The Trinity of God can be known only through divine revelation. Proximate
