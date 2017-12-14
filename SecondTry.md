@@ -19,6 +19,10 @@ That is to say, we know God by way of comparison to created things; we do not kn
 
 This means that we cannot come to a full and complete (comprehensive) knowledge of God. It does not mean that we are incapable of knowing or understanding anything about God.
 
+The blessed in Heaven possess an immediate intuitive knowledge of the Divine Essence. de fide
+The immediate vision of God transcends the natural power of cognition of the human soul, and is therefore supernatural. de fide
+The soul, for the immediate vision of God, requires the light of glory. de fide D 475
+
 1.1.2.1
 
 50:
@@ -40,12 +44,29 @@ See the discussion of infallibility below for the ways in which this authority c
 
 1.1.2.3
 
-###### Sacred Scripture is inspired by God. *Sent. certa.*; *Trent*, sess. 4; *Dei Verbum* XI.
+###### Sacred Scripture is inspired by God.
+*Sent. certa.*; *Trent*, sess. 4; *Dei Verbum* XI.
 
 The Church is not committed to any particular theory of inspiration.
 
-###### Sacred Scripture when properly understood is without error in all that it affirms. *Sent. certa.*; *Dei Verbum* XI.
+###### Sacred Scripture when properly understood is without error in all that it affirms.
+*Sent. certa.*; *Dei Verbum* XI.
 
-###### The inspired books of Sacred Scripture are: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles, Ezra, Nehemiah, Tobit, Judith, Esther (including those portions know as "the Rest of Esther"), 1 and 2 Maccabees, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Wisdom of Solomon, Sirach (Ecclesiasticus), Isaiah, Jeremiah, Lamentations, Baruch, Ezekiel, Daniel (including the Prayer of Azariah and Song of the Three Holy Children; Susannah and the elders; Bel and the Dragon), Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zachariah, Malachi; Matthew, Mark, Luke, John, Acts of the Apostles, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude,  Revelation (the Apocalypse). *De fide*; *Trent* sess. 4.
+###### The inspired books of Sacred Scripture are: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles, Ezra, Nehemiah, Tobit, Judith, Esther (including those portions know as "the Rest of Esther"), 1 and 2 Maccabees, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Wisdom of Solomon, Sirach (Ecclesiasticus), Isaiah, Jeremiah, Lamentations, Baruch, Ezekiel, Daniel (including the Prayer of Azariah and Song of the Three Holy Children; Susannah and the elders; Bel and the Dragon), Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zachariah, Malachi; Matthew, Mark, Luke, John, Acts of the Apostles, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude,  Revelation (the Apocalypse).
+*De fide*; *Trent* sess. 4.
 
 It is certain that the books in the above list are inspired. A few other books are regarded as Scripture by various groups of Eastern Christians, including groups in Communion with the Holy See. The Magisterium has not give a definite resolution to the question.
+
+1.2.1.1
+
+200
+###### There is only one God in the proper sense of the term.
+*De fide*., Vat. I *De Deo*, cap. 1.
+
+215-217
+###### God is true and faithful.
+*Sent. certa.*
+
+218-221
+###### God is benevolent.
+*Sent. certa.
