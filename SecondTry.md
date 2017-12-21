@@ -71,29 +71,17 @@ It is certain that the books in the above list are inspired. A few other books a
 ###### God is benevolent.
 *Sent. certa*.
 
-249-256
-###### The Trinity of God can be known only through divine revelation.
-*Sent. fidei proxima.*
-Though not explicitly mentioned by the decrees of Vatican I, this doctrine is the paradigmatic example of a truth not accessible to unaided human reason.
-
+233
 ###### In God there are three Divine Persons: the Father, the Son and the Holy Ghost.
 *De fide*.
 The most common definition of *person* is *an individual substance of a rational nature*.
 
-###### Each of the three Persons possesses the one (numerical) Divine Essence.
-*De fide*.
-This means that each of the Divine Persons is fully and completely God, not a part of God. For this reason, analogies of the Trinity involving combination or addition (e.g., 1 + 1 + 1 = 1) are best avoided.
+237
+###### The Trinity of God can be known only through divine revelation.
+*Sent. fidei proxima.*
+Though not explicitly mentioned by the decrees of Vatican I, this doctrine is the paradigmatic example of a truth not accessible to unaided human reason.
 
-###### The Divine Persons are truly distinct from each other.
-*De fide*.
-This doctrine stands against the idea that the Persons are simply modes in which God acts. Analogies of the Trinity involving different modes of appearance or action, such water in liquid, solid, and vapor form, are therefore inadvisable.
-
-###### In God there are two internal divine processions.
-*De fide*.
-
-###### It is the divine Persons who proceeds, not the Divine Nature.
-*De fide*. D432
-
+246, 254
 ###### The Second Divine Person proceeds from the First Divine Person by generation, and therefore is related to Him as Son to Father.
 * De fide.*
 
@@ -101,21 +89,51 @@ This doctrine stands against the idea that the Persons are simply modes in which
 *Sent. certa.*
 FIXME Explain generation
 
+246-248
 ###### The Holy Ghost proceeds from the Father and from the Son as from a single principle through a single spiration.
 *De fide.*
 
 ###### This procession is from the will or from the mutual love of the Father and the Son.
 *Sent. certa.*
 
+248
+###### In God there are two internal divine processions.
+*De fide*.
+
+###### It is the divine Persons who proceed, not the Divine Nature.
+*De fide*. D432
+
+253, 255
+###### Each of the three Persons possesses the one (numerical) Divine Essence; They are consubstantial.
+*De fide*.
+This means that each of the Divine Persons is fully and completely God, not a part of God. For this reason, analogies of the Trinity involving combination or addition (e.g., 1 + 1 + 1 = 1) are best avoided.
+
+254
+###### The Divine Persons are truly distinct from each other.
+*De fide*.
+This doctrine stands against the idea that the Persons are simply modes in which God acts. Analogies of the Trinity involving different modes of appearance or action, such water in liquid, solid, and vapor form, are therefore inadvisable.
+
+255
 ###### The relations in God are really identical with the Divine Nature.
 *De fide*. D703
 
+FIXME NOT COVERED FLAG
 ###### The Three Divine Persons are in one another.
 *De fide.*
-The Latin term for this is *circumincessio" and the Greek is "perichoresis."
+The Latin term for this is *circumincessio" and the Greek is "perichoresis."*
 
+257
+###### The Father sends the Son; the Father and the Son send the Holy Ghost.
+*Sent. certa*. D277/794
+
+258
 ###### All the ad extra activities of God are common to the three Persons.
 *De fide*. Lateran IV, *Firmiter*.
 
-###### The Father sends the Son; the Father and the Son send the Holy Ghost.
-*Sent. certa*. D277/794
+1.2.1.2
+
+268-278
+###### God is almighty (omnipotent).
+*De fide*, Nicene Creed.
+
+More precisely, God can do whatever He can will, insofar as it is not repugnant to His Essence. For example, God cannot cease to exist because His Essence is to exist. Such apparent restrictions of the Divine Power are not real, as they always involve a logical contradiction of some sort; in the example above, God does not merely exist, but is Existence itself, and so cannot not exist. In the memorable words of C. S. Lewis, "[M]eaningless combinations of words do not suddenly acquire meaning simply because we prefix to them the two other words, 'God can.' It remains true that all things are possible with God: the intrinsic impossibilities are not things but nonentities. It is no more possible for God than for the weakest of His creatures to carry out both of two mutually exclusive alternatives; not because His power meets an obstacle, but because nonsense remains nonsense even when we talk it about God.”"[*The Problem of Pain*]FIXME
