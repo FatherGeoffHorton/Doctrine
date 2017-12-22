@@ -130,10 +130,71 @@ The Latin term for this is *circumincessio" and the Greek is "perichoresis."*
 ###### All the ad extra activities of God are common to the three Persons.
 *De fide*. Lateran IV, *Firmiter*.
 
-1.2.1.2
+1.2.1.1.3
 
 268-278
 ###### God is almighty (omnipotent).
 *De fide*, Nicene Creed.
 
-More precisely, God can do whatever He can will, insofar as it is not repugnant to His Essence. For example, God cannot cease to exist because His Essence is to exist. Such apparent restrictions of the Divine Power are not real, as they always involve a logical contradiction of some sort; in the example above, God does not merely exist, but is Existence itself, and so cannot not exist. In the memorable words of C. S. Lewis, "[M]eaningless combinations of words do not suddenly acquire meaning simply because we prefix to them the two other words, 'God can.' It remains true that all things are possible with God: the intrinsic impossibilities are not things but nonentities. It is no more possible for God than for the weakest of His creatures to carry out both of two mutually exclusive alternatives; not because His power meets an obstacle, but because nonsense remains nonsense even when we talk it about God.”"[*The Problem of Pain*]FIXME
+More precisely, God can do whatever He can will, insofar as it is not repugnant to His Essence. For example, God cannot cease to exist because His Essence is to exist. Such apparent restrictions of the Divine Power are not real, as they always involve a logical contradiction of some sort; in the example above, God does not merely exist, but is Existence itself, and so cannot not exist. In the memorable words of C. S. Lewis, "[M]eaningless combinations of words do not suddenly acquire meaning simply because we prefix to them the two other words, 'God can.' It remains true that all things are possible with God: the intrinsic impossibilities are not things but nonentities. It is no more possible for God than for the weakest of His creatures to carry out both of two mutually exclusive alternatives; not because His power meets an obstacle, but because nonsense remains nonsense even when we talk it about God.”"[*The Problem of Pain*]FIXME--give citation
+
+1.2.1.1.4
+
+###### All creatures bear within themselves vestiges of the Trinity; spiritual creatures are real images of the same. sent comm 38
+
+279
+###### The world has a beginning in time.
+*De fide.* Firmiter, Vatican I
+
+292
+###### The Three Divine Persons are one single, common principle of creation.
+*De fide* 36 Firmiter
+
+###### Creation is properly appropriated to God the Father.
+*Sent. certa.* 38
+
+
+293
+###### The world was created for the glorification of God.
+*De fide*, Vatican I III.5
+
+295
+###### Creation was a free act; God was free to create or not to create.
+*De fide*. 41 F Florence; Vatican I, De Deo can 5
+
+God was not compelled by anything outside of Himself to create, nor was He subject to any inner necessity to create.
+
+###### God was moved by His goodness to create the world.
+
+###### God was free to create this universe as it exists or any other universe.
+*Sent. certa.*, 43 Cologne (1860)
+
+296
+###### All that exists outside God was, in its whole substance, produced out of nothing (*ex nihilo*) by God.
+*De fide*, *Firmiter*.
+
+###### No created being ever created something from nothing,
+*De fide*, Latera IV 55
+
+###### God cannot, even by way of grace, communicate His creative power to any creature.
+*Sent. fidei proxima*. 56
+
+299
+###### God has created a good world.
+
+301
+###### All created things depend on God for their continued existence.
+*Sent. certa.*
+
+###### God will forever maintain the substance of His creation.
+*Sent. certa.* 66
+
+###### God lends his immediate physical cooperation to every physical act.
+*Sent. comm.* 67
+This cooperation is known as the divine *concursus*.
+
+302-308
+###### God protects and governs by His Providence all things He has made, even wih respect to free actions. 92  
+V I III.1
+
+God, through His Providence, protects and guides all that He has created.
