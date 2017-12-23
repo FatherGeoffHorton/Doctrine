@@ -153,7 +153,6 @@ More precisely, God can do whatever He can will, insofar as it is not repugnant 
 ###### Creation is properly appropriated to God the Father.
 *Sent. certa.* 38
 
-
 293
 ###### The world was created for the glorification of God.
 *De fide*, Vatican I III.5
@@ -169,7 +168,7 @@ God was not compelled by anything outside of Himself to create, nor was He subje
 ###### God was free to create this universe as it exists or any other universe.
 *Sent. certa.*, 43 Cologne (1860)
 
-296
+296, 338
 ###### All that exists outside God was, in its whole substance, produced out of nothing (*ex nihilo*) by God.
 *De fide*, *Firmiter*.
 
@@ -197,4 +196,106 @@ This cooperation is known as the divine *concursus*.
 ###### God protects and governs by His Providence all things He has made, even wih respect to free actions. 92  
 V I III.1
 
-God, through His Providence, protects and guides all that He has created.
+1.2.1.1.5
+
+327
+###### In the beginning of time God created spiritual essences (angels) out of nothing.
+*De fide*, *Firmiter*.
+328
+###### Angels exist.
+*De fide.* 313
+
+330
+######Angels are incorporeal substances, that is, pure spirits.
+*Sent. certa*. 314
+
+1.2.1.1.6
+
+360
+###### All mankind is descended from one pair of progenitors 131 level? Humani Generis
+
+365
+###### The spiritual soul is the immediate substantial form of the body.
+*De fide.* Lateran V, Sess. VIII.
+
+366
+###### The human soul is immortal.
+*De fide.*
+
+###### This immortality is intrinsic to the nature of a soul.
+*Sent. comm.*
+
+###### Each human soul is created immediately by God.
+*Sent. certa.*
+
+This rules out the pre-existence of souls [FIXME 162].
+
+###### Parents do not in any way produce the souls of their offspring.
+*Sent. certa.*
+
+Traducianism is an error. 166 sent certa
+
+367
+###### Man consists of two and only two essential constituents: body and soul.
+*De fide.* Constantinople II
+
+The distinction between *soul* and *spirit* is a conceptual rather than real. The term *spirit* is generally held to refer to the higher faculties of the soul.
+
+###### Every human being possesses an individual soul.
+*De fide.*
+
+374-379
+###### Our first parents enjoyed the gifts of exemption from concupiscence, bodily immortality, habitual infused knowledge, and impassibility.
+The first two are *de fide* and the others are *sent. comm.* For bodily immortality, see Trent, Sess. V, can. 1. For exemption from concupiscence, see FIXME.
+
+###### Adam, the progenitor of the human race, was endowed with sanctifying grace before the Fall.
+
+*De fide.* Trent V.1 & 2
+
+This certainly extends to Eve as well, though the Council did not say so.
+
+FIXME The body and soul of the first man were created immediately by God 127 sent cert #### The gifts of the beatific vision and the state of grace are supernatural in the strict sense. 190 wrt beatific vision is de fide, and on earth a necessary conclusion #### God could have created man in the state in which he now is born, minus Original Sin. sent. comm. 230
+
+1.2.1.1.7
+
+391-394
+###### The angels were endowed sanctifying grace at the time of their creation.
+ 327 sent. comm.
+
+###### The angels underwent a test.
+328 sent. comm.
+
+###### Some angels failed the test.
+*Sent. certa.*
+
+###### The fallen angels lost grace and were cast into hell, where they have no hope of redemption.
+*De fide.*
+
+our first parents, seduced by Satan, committed a mortal sin by transgressing the precept of probation.  de fide 233, Trent, session 5, canons one through three
+by transgressing the law of probation Adam forfeited sanctifying grace and merited eternal damnation; he became subject to bodily death and the dominion of Satan, and suffered a deterioration in body and soul.  de fide Trent, session 5, Canon one 236
+Original Sin is real sin, and its entire guilt is blotted out by baptism de fide 244, Trent somewhere.
+Concupiscence as such is not really sin, but is merely so-called, because "it is of sin and inclines to sin. 245"Trent session 5 Canon five
+Original Sin does not consist exclusively in the extrinsic imputability of the actual sin of Adam conceived as morally enduring. sent. comm. 265
+Original Sin essentially consists im privation of grace, so far as this is voluntary in all men to the will of their progenitor. sent. comm.
+the sin of Adam is transferred by propagation. de fide Trent, session 5, Canon three page 280
+get the effects of original sin from Trent.
+Our first parents in Paradise sinned grievously through transgression of the Divine probationary commandment.
+Through sin our first parents lost sanctifying grace and provoked the anger and the indignation of God.
+Our first parents became subject to death and to the dominion of the devil.
+Adam's sin is transmitted to his posterity, not by imitation but by descent.
+Original sin is transmitted by natural generation.
+In the state of original sin man is deprived of sanctifying grace and all that this implies, as well as of the preternatural gifts of integrity.
+Souls who depart this life in the state of original sin are excluded from the Beatific Vision of God.
+
+
+
+
+The Angels exercise a kind of general guardianship over the human race. sent. certa 330
+every Christian from the moment of his baptism has his particular guardian angel. sent. certa 332
+not only Christians and those justified, but heathens and sinners also have each a guardian angel.  sent. certa
+Every State and every ecclesiastical province has its own divinely appointed tutelary spirit. More probable opinion. 337 not included
+some Angels failed their probation. sent. certa
+the fallen Angels lost grace and were cast into hell, where they have no hope of redemption. de fide
+
+The evil spirits (demons) were created good by God; they became evil through their own fault.
+The secondary task of the good angels is the protection of men and care for their salvation.
