@@ -271,20 +271,36 @@ FIXME The body and soul of the first man were created immediately by God 127 sen
 ###### The fallen angels lost grace and were cast into hell, where they have no hope of redemption.
 *De fide.*
 
-our first parents, seduced by Satan, committed a mortal sin by transgressing the precept of probation.  de fide 233, Trent, session 5, canons one through three
-by transgressing the law of probation Adam forfeited sanctifying grace and merited eternal damnation; he became subject to bodily death and the dominion of Satan, and suffered a deterioration in body and soul.  de fide Trent, session 5, Canon one 236
-Original Sin is real sin, and its entire guilt is blotted out by baptism de fide 244, Trent somewhere.
-Concupiscence as such is not really sin, but is merely so-called, because "it is of sin and inclines to sin. 245"Trent session 5 Canon five
-Original Sin does not consist exclusively in the extrinsic imputability of the actual sin of Adam conceived as morally enduring. sent. comm. 265
-Original Sin essentially consists im privation of grace, so far as this is voluntary in all men to the will of their progenitor. sent. comm.
-the sin of Adam is transferred by propagation. de fide Trent, session 5, Canon three page 280
-get the effects of original sin from Trent.
-Our first parents in Paradise sinned grievously through transgression of the Divine probationary commandment.
-Through sin our first parents lost sanctifying grace and provoked the anger and the indignation of God.
+272
+###### Our first parents sinned by violating God's express command.  
+*De fide*. Trent, Sess. V, canons 1-3.
+
+399-400
+###### By violating God's command, Adam forfeited sanctifying grace and merited eternal damnation, became subject to bodily death and the dominion of Satan, and suffered a deterioration in body and soul.  
+*De fide*. Trent, session V, can. 1.
+
+403
+######Original Sin is real sin, and its entire guilt is blotted out by baptism.
+*De fide*. DS1513 Trent somewhere.
+
+404
+###### Original Sin does not consist exclusively in the extrinsic imputability of the actual sin of Adam conceived as morally enduring.
+*Sent. comm.*
+
+###### The sin of Adam is transferred by propagation.
+*De fide*. Trent, Sess. V, can. 3.
+
+The Church has not defined how propagation transmits Original Sin, only that it does.
+
+405
+###### Original Sin essentially consists in privation of grace, so far as this is voluntary in all men to the will of their progenitor.
+*Sent. comm.*
+
+###### Concupiscence as such is not really sin, but is merely so-called, because it is of sin and inclines to sin.
+*De fide.* Trent, Sess. V, can. 5.
+
 Our first parents became subject to death and to the dominion of the devil.
-Adam's sin is transmitted to his posterity, not by imitation but by descent.
-Original sin is transmitted by natural generation.
-In the state of original sin man is deprived of sanctifying grace and all that this implies, as well as of the preternatural gifts of integrity.
+
 Souls who depart this life in the state of original sin are excluded from the Beatific Vision of God.
 
 
