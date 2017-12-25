@@ -299,6 +299,71 @@ The Church has not defined how propagation transmits Original Sin, only that it 
 ###### Concupiscence as such is not really sin, but is merely so-called, because it is of sin and inclines to sin.
 *De fide.* Trent, Sess. V, can. 5.
 
+1.2.2.2
+
+1.2.2.3
+
+464
+###### Jesus Christ is true God and true Son of God.
+*De fide*. Chalcedon
+
+###### Jesus has a true and integral human nature.
+*De fide*. Chalcedon
+
+###### Jesus is a true descendant of Adam.
+*De fide*. Chalcedon
+
+465
+###### Jesus is the natural Son of God, not adoptive.
+*Sent certa.*
+
+###### Christ assumed a real body, not an apparent body.
+
+471
+###### Christ assumed not only a body but also a rational soul.
+
+472
+###### The soul of Christ also possessed progressive experimental knowledge.
+*Sent. comm.*
+
+473, 474
+###### The soul of Christ from the moment of His conception also possessed infused knowledge. sent comm -- see especially discussion of the "ignorance" of Christ concerning the Day of Judgment
+
+475
+###### Each of the two natures in Christ possesses its own natural will and its own natural mode of operation.
+
+Jesus was capable of suffering by virtue of His assumed manhood. de fide Florance
+Hypostatic Union de fide Chalcedon
+Christ has a human will and a divine will de fide
+The Hypostatic Union of the Logos with His manhood began at the moment of Christ's conception de fide Constantinople II
+The Logos never even for an instant dissociated Himself from His manhood. sent certa
+The Logos will never dissociate Himself from His manhood de fide
+Communication of Idioms?
+Christ as man was exempt from original sin and concupiscence. de fide Decretum pro Iacobitis
+Christ was free from all personal sin de fide Ephesus 10
+Christ as man was incapable of sinning sent fidei proxima, though the explanations are diverse
+The human nature of Christ, in virtue of the Hypostatic Union, was and is substantially sanctified by the increate holiness of the Divine Logos sent communior (Scotists hold out)
+The human soul of our Lord also possessed an accidental holiness (i.e., sanctifying grace) which, though not actually infinite, was by far the most perfect created in the present economy. sent certa
+From the first moment of its existence in a human body the soul of our Lord Jesus Christ enjoyed the beatific vision of God. sent certa? comm? communior?
+Christ as the Godman is entitled to divine worship. de fide Ephesus, 8th anathema of St. Cyril; V Constantinople
+Because of its Hypostatic Union with the Logos, the humanity of our Lord is entitled to divine worship in itself, though not for its own sake. sent comm?
+Christ is the sole mediator who takes away sin. de fide Trent V.3
+
+
+Christ was truly generated and born of a daughter of Adam, the Virgin Mary.
+The Divine and human natures are united hypostatically in Christ, that is, joined to each other in one Person.
+In the hypostatic union each of the two natures of Christ continues unimpaired, untransformed, and unmixed with each other.
+The hypostatic union of Christ's human nature with the Divine Logos took place at the moment of conception.
+The hypostatic union was effected by the three Divine Persons acting in common.
+Only the second Divine Person became Man.
+Not only as God but also as man Jesus Christ is the natural Son of God.
+The God-Man Jesus Christ is to be venerated with one single mode of worship, the absolute worship of latria which is due to God alone.
+Christ's Divine and human characteristics and activities are to be predicated of the one Word Incarnate.
+Christ was free from all sin, from original sin as well as from all personal sin.
+Christ's human nature was passable.
+The Son of God became man in order to redeem men.
+Fallen man cannot redeem himself.
+The God-man Jesus Christ is a high priest.
 Our first parents became subject to death and to the dominion of the devil.
 
 Souls who depart this life in the state of original sin are excluded from the Beatific Vision of God.
